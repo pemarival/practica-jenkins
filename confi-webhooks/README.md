@@ -22,7 +22,7 @@ Nos iremos al servidor que creamos
 
 ![alt text](discord5.png)
 
-Podemos configurar nuestro webhook desde dos formas, la primera es seleccionar el servidor y dirigirse a ajustes del servidor
+Seleccionamos el servidor y nos dirigimos a ajustes del servidor
 
 ![alt text](discord6.png)
 
@@ -48,7 +48,57 @@ Lo importante acá es copiar la url
 
 ## Teams
 
-Dedemos de tener una cuenta paga.
+Teams es muy limitado a funcionalidades y depende del tipo de cuenta con el que se ingrese, es por eso que en nuestro caso como primer paso debemos ingresar desde nuestra cuenta institucional soy.sena.edu.co
+
+![alt text](teams1.png)
+
+Después debemos dirigirnos a la sesión de equipos
+
+![alt text](teams2.png)
+
+Al tener restricciones por parte de la organización no podremos crear un equipo
+
+![alt text](teams3.png)
+
+Pero si podemos unirnos a uno
+
+![alt text](teams4.png)
+
+Nos aparecerá un listado grandísimo, podemos unirnos a cualquiera  
+
+![alt text](teams5.png)
+
+Una vez allí, debemos crear nuestro propio canal 
+
+![alt text](teams6.png)
+
+Asignamos nombre, la descripción es opcional y elegimos el tipo de canal, en mi caso seleccionaré privado porque no quiero que 265 miembros vean mi canal de pruebas
+
+![alt text](teams7.png)
+
+De igual manera omiteremos esta parte porque no es obligatorio hacerlo
+
+![alt text](teams8.png)
+
+Ahora ya podremos ver que nuestro canal se creó, debemos dirigirnos a él y presionar los tres puntos y ir a flujos de trabajo
+
+![alt text](teams9.png)
+
+Deberemos seleccionar una plantilla 
+
+![alt text](teams10.png)
+
+y escogeremos la siguiente
+
+![alt text](teams11.png)
+
+Configuramos el equipo, el canal y guardamos
+
+![alt text](teams12.png)
+
+Y listo, ya tenemos nuestro webhook hecho
+
+![alt text](teams13.png)
 
 ## Telegram
 
